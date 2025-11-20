@@ -3,4 +3,5 @@ aiocryptopay
 apscheduler
 pytz
 datetime
+pythonping
 db-sqlite3
